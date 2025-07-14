@@ -1,0 +1,5 @@
+azure-functions==1.23.0
+azure-storage-blob==12.25.1
+azure-storage-queue==12.8.0
+Pillow==10.0.0
+pyodbc==4.0.39
